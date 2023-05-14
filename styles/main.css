@@ -14,10 +14,10 @@ body {
 }
 
 .image-container img {
-  height: 150px;
-  margin: 45px;
+  height: 130px;
+  margin: 50px;
   max-width: 100%;
-  width: 150px;
+  width: 130px;
 }
 
 @media (max-width: 768px) {
@@ -27,8 +27,10 @@ body {
   }
 
   .image-container img {
-    margin: 10px;
-    width: 100%;
+    height: 75px;
+    margin: 50px;
+    max-width: 100%;
+    width: 75px;
   }
 
 }
